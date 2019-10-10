@@ -5,6 +5,8 @@
     margin: 3% auto;
     flex-wrap: nowrap;
     font-weight: 700;
+    color: black;
+    font-size: 1.1em;
 }
 
 .left{

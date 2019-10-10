@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+	justify-content: space-between;
+	height: 33%;
+	width: 90%;
+	align-self: flex-end;
+	margin: 0 auto;
+}
+
+.left-part {
+	width: 40%;
+}
+
+.right-part{
+	width: 60%;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
+.github, .gmail, .twitter{
+	text-align: center;
+	cursor: pointer;
+}
+
+i{
+	font-size: 5em;
+}

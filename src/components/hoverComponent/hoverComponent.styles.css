@@ -1,0 +1,21 @@
+.hover{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	top: 100px;
+	width: 100px;
+	height: 150px;
+	align-items: center;
+	border: 2px solid black;
+}
+
+.contact, .donate, .contribute{
+	height: 33%;
+	align-self: center;
+	width: 100%;
+	text-align: center;
+}
+
+.contact:hover, .donate:hover, .contribute:hover{
+	background-color: rgb(219, 219, 219);
+}

@@ -1,0 +1,15 @@
+.about-part{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 900px;
+	margin: 0 auto;
+}
+
+h1{
+	border-bottom: 2px solid; 
+}
+
+p{
+	text-align: center;
+}

@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 3% auto;
+    flex-wrap: nowrap;
+    font-weight: 700;
+}
+
+.left{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.logo, .home, .about, .checksafety {
+    cursor: pointer;
+}
+
+.animation{
+    width: 38px;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background 0.3s;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+
+.animation:hover {
+    background-color: white;
+}

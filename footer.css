@@ -1,0 +1,35 @@
+ img{
+    height: 3.3rem;
+    border-style: none;
+    width: 3.5rem;
+    margin-right: 4rem;
+}  
+
+.images
+{
+    height: 3.3rem;
+    border-style: none;
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
+.jumbotron{
+height: 12rem;
+display: flex;
+}
+
+p{
+    margin-top: 1rem;
+}
+
+h2{
+    width: 19rem;
+    margin-top: -2rem;
+}
+
+#address
+{
+    margin-left: -15rem;
+    margin-top: 2rem;
+}

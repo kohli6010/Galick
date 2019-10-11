@@ -21,7 +21,7 @@ class Nav extends React.Component {
                 <div className='left'>
                     <span className='home'>Home</span>
                     <span className='about'>About</span>
-                    <span className='checksafety'>Check Safety</span>
+                    <span className='checksafety'>Some Facts</span>
                     <div className='animation' onClick= {this.handleHover}>
                         <span className='dots'>
                             ...

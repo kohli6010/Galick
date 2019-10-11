@@ -1,10 +1,10 @@
 footer {
     display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	height: 33%;
 	width: 90%;
 	align-self: flex-end;
-	margin: 0 auto;
+	margin: 30px auto;
 }
 
 .left-part {

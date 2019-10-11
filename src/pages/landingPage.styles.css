@@ -6,3 +6,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.player{
+    height: 400px;
+    width: 600px;
+    margin: 50px auto;  
+}
